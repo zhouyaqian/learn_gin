@@ -1,0 +1,4 @@
+2023/11/02 00:13:49 {"callers":["E:/learn/project/learn_gin/main.go:28 main.init.0"],"level":"info","message":"yes:learn-gin","time":1698855229719119000}
+2023/11/02 00:15:04 {"callers":["E:/learn/project/learn_gin/main.go:28 main.init.0"],"level":"info","message":"beginning:learn-gin","time":1698855304783270000}
+2023/11/21 23:03:18 {"callers":["E:/learn/project/learn_gin/main.go:28 main.init.0"],"level":"info","message":"beginning:learn-gin","time":1700578998606509500}
+2023/11/22 23:40:34 {"callers":["E:/learn/project/learn_gin/main.go:28 main.init.0"],"level":"info","message":"beginning:learn-gin","time":1700667634143040400}
